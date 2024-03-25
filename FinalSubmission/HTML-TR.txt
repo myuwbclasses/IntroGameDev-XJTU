@@ -1,0 +1,45 @@
+<tr>
+    <td align="center" style="text-align:left;">
+      
+      
+      <img border="0" src="3/logo.png" width="122px" /><br/>
+      <p></p>
+      <b>Developers</b></br>
+      Ke Shaoteng（柯绍腾）from UNNC <br/>
+      <br/>
+      Qin Haoxuan（秦颢轩）from SUSTECH<br/>
+      <br/>
+      Lin Yuhang（林雨航） from SUSTECH<br/>
+      <br/>
+      Zeng Xianqing（曾宪清）from SUSTECH<br/>
+    </td>
+    <td>
+      <p><b><u>Alien Odyssey: Cthulhu's Awakening</u></b></p> 
+      <p>
+            This is an enigmatic 2D game which includes weaving platform jumping elements with intense battles and skill-based combat. Diverse characters offer unique movements, each contributing to the players' thrilling journey through this dark Cthulhu world.
+
+            Venturing through various types of landscapes, players shall encounter an array of formidable foes and menacing bosses, testing their prowess and courage. But beware, for a looming threat shadows their every step—the Sanity System. Straying far from the ethereal light shall attract the pursuit of a spectral nemesis, adding a sinister twist to the adventure.
+        
+            Prepare to immerse yourself in the mysteries of our Cthulhu-inspired game. Conquer demons, and embrace the chilling essence of the unknown!
+      </p>
+      <p>
+      <a href="GamePitch/3.pptx">Game Pitch</a>
+      &nbsp; &nbsp; &nbsp; &nbsp;
+      <a href="https://haosonn.github.io/NUS_SWS_Alien_Odyssey_WebGL_Final/">Click to Play</a>
+      &nbsp; &nbsp; &nbsp; &nbsp;
+      <a href="3/en_printed.pdf">Booklet (EN)</a>
+      &nbsp; &nbsp; &nbsp; &nbsp;
+      <a href="3/zh_full.pdf">Booklet (CN)</a>
+      <br/><p></p>
+      
+      <iframe src="https://drive.google.com/file/d/1GcxezqPiI9C7ewd1JDo2VtjPz5L4yRRg/preview" width="560" height="340"></iframe>
+      <p></p>
+      
+      <img border="0" src="https://drive.google.com/thumbnail?id=1G01oUK-mYp1Yl80S-ev9RFbPHayyXB4g" width="300px"/>
+      <img border="0" src="https://drive.google.com/thumbnail?id=1Ft8BIR-a24vfFWD2KBDIXVSy9wmbw--P" width="300px"/>
+      <img border="0" src="https://drive.google.com/thumbnail?id=1FqpKdbDQaSdKZ_QAkfJVZqRIElmTUd9R" width="300px"/>
+      <img border="0" src="https://drive.google.com/thumbnail?id=1GLfs8uuhsNKDhPupQRjE8Ll_m7IgvraO" width="300px"/>
+      <img border="0" src="https://drive.google.com/thumbnail?id=1GLKfC5wF6iGev9nTNEUq61CpmJX5ZQGJ" width="300px"/>
+      
+    </td>
+  </tr>
