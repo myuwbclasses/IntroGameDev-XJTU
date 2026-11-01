@@ -62,3 +62,10 @@ crashlytics-build.properties
 # back up copies by editors
 ~*
 
+
+# Claude Code files
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
+
